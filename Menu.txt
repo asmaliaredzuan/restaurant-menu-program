@@ -1,0 +1,5 @@
+(a)Chicken Special     $6.50   (a)Apple Pie      $2.49   (a)Café Mocha    $1.49
+(b)Chicken Nuggets     $5.50   (b)Butter Bread   $2.00   (b)Café Late     $1.99
+(c)Rainbow Fillet      $6.50   (c)No-salt Fries  $1.49   (c)Orange juice  $2.49
+(d)Double Cheeseburger $7.00   (d)Fun ice Cream  $2.00   (d)Ice Lemon Tea $2.49
+(e)Tofu Burger         $3.49   (e)Rice Cracker   $1.49   (e)Pepsi         $1.99
